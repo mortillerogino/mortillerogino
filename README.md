@@ -1,11 +1,10 @@
 **gino mortillero** <br>
-**cebu city, philippines 6000** <br>
+**Ashfield, NSW AU 2131** <br>
 **[in/gino-mortillero/](https://www.linkedin.com/in/gino-mortillero/ "gino-mortillero")** <br>
-**arcanys, full-stack developer, aug 2019 - present** <br>
+**chillidee marketing group, full-stack developer, june 2022 - present** <br>
 <br>
 <br>
-**projects with current company:**
-*dec 2020 - present*
+*dec 2020 - june 2022*
 - business management software company that specializes in tradesmen (plumbing, carpentry, electric solution, etc)
 - full-stack developer
 - technology used: angularjs, html, css, asp.net framework 4.7, sql server
