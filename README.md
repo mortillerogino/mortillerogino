@@ -3,7 +3,6 @@
 **[in/gino-mortillero/](https://www.linkedin.com/in/gino-mortillero/ "gino-mortillero")** <br>
 **chillidee marketing group, full-stack developer, june 2022 - present** <br>
 <br>
-<br>
 *dec 2020 - june 2022*
 - business management software company that specializes in tradesmen (plumbing, carpentry, electric solution, etc)
   - full-stack developer
