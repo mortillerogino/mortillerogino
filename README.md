@@ -6,9 +6,9 @@
 <br>
 *dec 2020 - june 2022*
 - business management software company that specializes in tradesmen (plumbing, carpentry, electric solution, etc)
-- full-stack developer
-- technology used: angularjs, html, css, asp.net framework 4.7, sql server
-- tasked in providing maintenance solutions, bug fixes, optimization/code-improvements
+  - full-stack developer
+  - technology used: angularjs, html, css, asp.net framework 4.7, sql server
+  - tasked in providing maintenance solutions, bug fixes, optimization/code-improvements
 
 *oct 2020 - nov 2020*
 - financial management software company
